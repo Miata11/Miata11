@@ -1,4 +1,4 @@
-## 
+### 
 
 
 
@@ -6,7 +6,7 @@
   <h1 style="color: white; font-family: 'Arial', sans-serif;">Hello 👋 Bienvenue sur mon profil Github</h1>
   <p style="color: white; font-size: 18px;">Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en cours 🚀</p>
 </div>
-### 🌟 À propos de moi
+🌟 À propos de moi
 
 🎓 Professionnelle de la relation client pendant 20 ans, je me reconvertis avec passion dans le développement web.  
 📍 Actuellement basée au Teich sur le Bassin d'Arcachon.  
