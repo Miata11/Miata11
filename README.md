@@ -4,7 +4,7 @@ Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en c
 
 ### 🌟 À propos de moi
 
-🎓 Professionnelle en relation client pendant 20 ans, je me reconvertis avec passion dans le développement web.  
+🎓 Professionnelle de la relation client pendant 20 ans, je me reconvertis avec passion dans le développement web.  
 📍 Actuellement basée au Teich sur le Bassin d'Arcachon.  
 💡 Recemment diplômée du Wagon suite à un bootcamp intensif de 9 semaines, je continue à améliorer **Trucks-Radar, la boussole à FoodTrucks**, une app web developpée sous Ruby on rails !  
 
@@ -38,10 +38,11 @@ Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en c
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical" alt="Stats de TonPseudoGitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miata11&show_icons=true&theme=radical" alt="Stats de Miata11">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical" alt="Langages préférés">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miata11&layout=compact&theme=radical" alt="Langages préférés">
 </p>
+
 
 
