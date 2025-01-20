@@ -1,4 +1,4 @@
-## hello 👋 Bienvenue sur mon profil Github
+## Hello 👋 Bienvenue sur mon profil Github
 
 <!--
 Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en cours 🚀
