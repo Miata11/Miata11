@@ -38,10 +38,10 @@ Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en c
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miata11&show_icons=true&theme=pink&rank_icon=github" alt="Stats de Miata11">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miata11&show_icons=true&theme=synthwave&rank_icon=github" alt="Stats de Miata11">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miata11&layout=compact&theme=pink" alt="Langages préférés">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miata11&layout=compact&theme=synthwave" alt="Langages préférés">
 </p>
 
 
