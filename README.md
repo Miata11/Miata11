@@ -1,16 +1,43 @@
-## Hi there 👋
+## hello 👋 Bienvenue sur mon profil Github
 
 <!--
-**Miata11/Miata11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en cours 🚀
 
-Here are some ideas to get you started:
+### 🌟 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Professionnelle en relation client pendant 20 ans, je me reconvertis avec passion dans le développement web.  
+📍 Actuellement basée au Teich sur le Bassin d'Arcachon.  
+💡 Recemment diplômée du Wagon suite à un bootcamp intensif de 9 semaines, je continue à améliorer **Trucks-Radar, la boussole à FoodTrucks**, une app web developpée sous Ruby on rails !  
+
+---
+
+### 💻 Langages et outils
+
+- **Langages** : Ruby, HTML, CSS, JavaScript  
+- **Frameworks** : Ruby on Rails, Bootstrap  
+- **Bases de données** : PostgreSQL, SQLite  
+- **Outils** : Git, GitHub, Figma  
+
+---
+
+### 🌱 Ce que je fais en ce moment :
+- Je perfectionne mes compétences en Ruby et en développement web.
+- Je m'initie au NoCode et à l'IA pour mieux comprendre l'ensemble de l'ecosystème tech.
+- Je souhaite continuer à coder tout en explorant les rôles de Product Manager et Product Owner, pour renforcer les ponts entre les métiers et les systèmes d'information.
+
+---
+
+### 🤝 Ce que je recherche :
+- Des retours sur mes projets GitHub.  
+- Des opportunités pour collaborer sur des projets Ruby on Rails.
+
+---
+
+### 📫 Comment me contacter ?
+- **LinkedIn** : www.linkedin.com/in/claire-cagnat  
+- **Email** : cagnatclaire@gmail.com  
+
+---
+
+
 -->
