@@ -1,6 +1,5 @@
 ## Hello 👋 Bienvenue sur mon profil Github
 
-<!--
 Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en cours 🚀
 
 ### 🌟 À propos de moi
@@ -45,4 +44,4 @@ Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical" alt="Langages préférés">
 </p>
 
--->
+
