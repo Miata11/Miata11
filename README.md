@@ -38,6 +38,11 @@ Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en c
 - **Email** : cagnatclaire@gmail.com  
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical" alt="Stats de TonPseudoGitHub">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical" alt="Langages préférés">
+</p>
 
 -->
