@@ -8,9 +8,9 @@ Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en c
 </div>
 🌟 À propos de moi
 
-🎓 Professionnelle de la relation client pendant 20 ans, je me reconvertis avec passion dans le développement web.  
-📍 Actuellement basée au Teich sur le Bassin d'Arcachon.  
-💡 Recemment diplômée du Wagon suite à un bootcamp intensif de 9 semaines, je continue à améliorer **Trucks-Radar, la boussole à FoodTrucks**, une app web developpée sous Ruby on rails !  
+- ** 🎓 Professionnelle de la relation client pendant 20 ans, je me reconvertis avec passion dans le développement web.  
+- ** 📍 Actuellement basée au Teich sur le Bassin d'Arcachon.  
+- ** 💡 Recemment diplômée du Wagon suite à un bootcamp intensif de 9 semaines, je continue à améliorer **Trucks-Radar, la boussole à FoodTrucks**, une app web developpée sous Ruby on rails !  
 
 ---
 
