@@ -1,3 +1,9 @@
+<div align="center" style="background: linear-gradient(90deg, #ff9a9e, #fad0c4); padding: 20px; border-radius: 15px;">
+  <h1 style="color: white; font-family: 'Arial', sans-serif;">Hey, I'm Miata11!</h1>
+  <p style="color: white; font-size: 18px;">Bienvenue sur mon profil GitHub 🌟</p>
+</div>
+
+
 ## Hello 👋 Bienvenue sur mon profil Github
 
 Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en cours 🚀
