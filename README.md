@@ -1,13 +1,22 @@
  
 ### Hello 👋 Bienvenue sur mon profil Github
-Je suis Claire et voici un aperçu de ce que j'aime faire et de mes projets en cours 🚀
+Je suis Claire, passionnée par la création de produits digitaux qui font le lien entre les métiers et la tech. 🚀
 
 
 ### 🌟 À propos de moi
 
--  🎓 Professionnelle de la relation client pendant 20 ans, je me reconvertis avec passion dans le développement web.  
--  📍 Actuellement basée au Teich sur le Bassin d'Arcachon.  
--  💡 Recemment diplômée du Wagon suite à un bootcamp intensif de 9 semaines, je continue à améliorer **Trucks-Radar, la boussole à FoodTrucks**, une app web developpée sous Ruby on rails !  
+-  🎯 20 ans d’expérience en relation client, aujourd’hui reconvertie dans le product management.
+-  📍 Basée au Teich, Bassin d’Arcachon.
+-  🎓 Diplômée du Wagon, où j’ai suivi un bootcamp intensif de 9 semaines en développement web.
+-  🛠️ Forte appétence pour la gestion de projet, l’amélioration continue et la collaboration entre équipes métiers et tech.
+
+###  💡 Mes projets
+-  🚀 Product Owner sur Trucks-Radar, la boussole des FoodTrucks : une web app développée sous Ruby on Rails, que je continue d’améliorer avec mon équipe.
+-  🔍 Focus sur l’UX/UI, la priorisation des features et l’agilité pour livrer un produit qui répond aux besoins des utilisateurs.
+
+-  📬 Ouverte aux opportunités en tant que Product Owner, avec une vision business forte et une compréhension technique approfondie.
+
+-  💬 Let’s connect !
 
 ---
 
